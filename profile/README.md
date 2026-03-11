@@ -1,4 +1,4 @@
-## Storion
+## StorionJS
 
 Storion is a **friendly, framework‑agnostic client‑side database for the browser**.  
 Think of it as a tiny, in‑browser data layer that feels like a real database but lives entirely on the client side.
